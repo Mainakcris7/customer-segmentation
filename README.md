@@ -11,7 +11,7 @@ This project is to develop a customer segmentation to define marketing strategy.
 
 
 ## 🚀 About Me
-I'm still a student, pursuing my B.Tech (3rd year, at 2023). I dreamt to be a Data Scientist or Data Analyst one day.
+I'm still a student, pursuing my B.Tech degree(3rd year, at 2023). I dreamt to be a Data Scientist or Data Analyst one day.
 
 
 
